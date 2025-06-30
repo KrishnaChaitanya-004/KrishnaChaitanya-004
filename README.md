@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
-<h3 align="center">Aspiring Software Developer | DSA & Full-Stack Enthusiast | Campus Placement Prep 2025</h3>
+<h3 align="center">Aspiring Software Developer | DSA & Full-Stack Enthusiast</h3>
 
 ---
 
