@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Krishna Chaitanya</h1>
 <h3 align="center">Aspiring Software Developer | DSA & Full-Stack Enthusiast | Campus Placement Prep 2025</h3>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ---
 
 ### 💡 About Me:
 
+<img align="right" width="250" alt="Transparent Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🎓 I'm currently pursuing my degree and actively preparing for campus placements (2026 batch)
 - 🚀 I enjoy working on **C++ projects**, building simple **Java/JavaScript** tools, and exploring **web technologies**
 - 💻 Currently sharpening my skills in **Data Structures & Algorithms**, **Object-Oriented Programming**, and **System Design**
-- 📚 Learning by doing: check out my hands-on repositories on **DSA**, **Java**, **C++**, and **web clones**
+- 📚 Learning by doing: check out my hands-on repositories on **DSA**, **Java**, **C++**
 - 🧠 I'm always curious about how things work under the hood — from low-level logic to high-level architecture
 
 ---
@@ -48,7 +48,6 @@
 
 > _“Don't compare your beginning to someone else's middle.”_
 
-
-
+---
 
 ⭐ _“Building bit by bit. Growing line by line.”_
