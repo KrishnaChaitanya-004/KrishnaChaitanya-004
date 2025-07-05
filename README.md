@@ -18,7 +18,7 @@
 ### 📬 Let's Connect:
 
 - 📧 Email: **kchaitanya5116@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/krishna-chaitanya-chakka-427937303](https://www.linkedin.com/in/krishna-chaitanya-chakka-427937303/)
+- 💼 LinkedIn: [linkedin.com/in/krishna-chaitanya-chakka-427937303](https://www.linkedin.com/in/krishna-chaitanya-chakka)
 
 ---
 
