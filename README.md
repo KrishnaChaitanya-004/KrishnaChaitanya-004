@@ -5,7 +5,7 @@
 
 ### 💡 About Me:
 
-<img align="right" width="250" alt="Transparent Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="300" alt="Transparent Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 I'm currently pursuing my degree and actively preparing for campus placements (2026 batch)
 - 🚀 I enjoy working on **C++ projects**, building simple **Java/JavaScript** tools, and exploring **web technologies**
